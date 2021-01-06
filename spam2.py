@@ -1,4 +1,4 @@
-                                                      spam2.py
+
 import json
 import sys
 import os
